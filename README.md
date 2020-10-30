@@ -1,4 +1,4 @@
-# clothing-recommendation-Street-2-Shop-6-months-project-
+# clothing recommendation model (Street 2 Shop) 
 
 This repository gathers:
 
