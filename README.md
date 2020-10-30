@@ -1,4 +1,3 @@
-\usepackage{graphicx}
 
 
 # Clothing recommendation model (Street 2 Shop) 
