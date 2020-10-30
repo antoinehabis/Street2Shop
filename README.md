@@ -1,2 +1,7 @@
 # clothing-recommendation-Street-2-Shop-6-months-project-
-This repository gathers results and my 6 month internship report during which I designed an image based clothing recommendation model Street 2 shop 
+
+This repository gathers:
+
+- An internship report about an image based clothing recommendation model (Street 2 shop) I designed during 6 months.
+
+- Some results of this model
