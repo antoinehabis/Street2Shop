@@ -1,4 +1,4 @@
-# clothing recommendation model (Street 2 Shop) 
+# Clothing recommendation model (Street 2 Shop) 
 
 This repository gathers:
 
