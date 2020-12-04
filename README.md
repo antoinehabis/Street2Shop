@@ -15,6 +15,11 @@ Example 1                  |  Example 2
 
 
 
-Example 3                 |
-:-------------------------:|
-![exmple of recommendations](https://github.com/antoinehabis/clothing-recommendation-Street-2-Shop-6-months-project-/blob/main/recommendation%20example/85.PNG)
+Example 3                  |  Example 4
+:-------------------------:|:-------------------------:
+![exmple of recommendations](https://github.com/antoinehabis/clothing-recommendation-Street-2-Shop-6-months-project-/blob/main/recommendation%20example/85.PNG)|![exmple of recommendations](https://github.com/antoinehabis/clothing-recommendation-Street-2-Shop-6-months-project-/blob/main/recommendation%20example/74.PNG)
+
+
+Example 5                  |  Example 6
+:-------------------------:|:-------------------------:
+![exmple of recommendations](https://github.com/antoinehabis/clothing-recommendation-Street-2-Shop-6-months-project-/blob/main/recommendation%20example/64.PNG)|![exmple of recommendations](https://github.com/antoinehabis/clothing-recommendation-Street-2-Shop-6-months-project-/blob/main/recommendation%20example/12.PNG)
